@@ -1,0 +1,10 @@
+3. How much space does the following data type take?
+
+- Int 
+Ans: 4 Bytes of Memory
+
+- Bool
+Ans: 1 Bytes of Memory
+
+- Float
+Ans: 4 Bytes of Memory

@@ -1,0 +1,21 @@
+How many of these can be a variable name ?
+
+
+ - 01Pwskills -
+        CANNOT be a variable name
+    
+
+ - _FLOAT -
+        CAN be a variable name
+
+
+ - int - 
+        CANNOT be a variable name
+
+
+ - FLOAT
+        CAN be a variable name
+        
+
+ - You will succeed
+        CANNOT be a variable name
